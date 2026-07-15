@@ -15,6 +15,8 @@ Created from the [template repo](https://github.com/MorpheApp/morphe-patches-tem
      If you wish to manually keep this list updated then remove the PATCHES_START and PATCHES_END 
      comment blocks entirely. -->
 
+<!-- PATCHES_END -->
+
 #### How to use these patches
 
 Click here to add these patches to Morphe: https://morphe.software/add-source?github=xyz-user/xyz-patches
