@@ -1,3 +1,9 @@
+## [1.0.0-dev.2](https://github.com/drosoCode/morphe-patches/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2026-07-15)
+
+### ✨ New Features
+
+* test ([2044e7f](https://github.com/drosoCode/morphe-patches/commit/2044e7fd60032defdee294c52b646cb48579d3e0))
+
 ## 1.0.1 (2026-07-15)
 
 ### 🐛 Bug Fixes
