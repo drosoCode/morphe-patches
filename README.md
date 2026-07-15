@@ -1,6 +1,6 @@
 # 🧩 Droso's Morphe Patches
 
-Morphe patches from drosocode
+Morphe patches from drosocode.
 
 Created from the [template repo](https://github.com/MorpheApp/morphe-patches-template)
 
